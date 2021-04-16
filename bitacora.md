@@ -13,3 +13,5 @@ Calificación: 5 de 5.
 Aprendí la regla de las "5 whys?" que es preguntarte 5 veces hasta encontrar la causa principal del problema y entonces ejecutar una solución. He finalizado la semana dos y cada vez se pone mejor.
 
 
+### Día 4
+Hoy terminé la semana 3 y 4. Los videos de la semana 3 fueron mis favoritos en ellos se explicó el ciclo de vida de los datos acompañado de excelentes ejemplos y muy puntuales. Explicaron también como usar el Qwiklabs para la siguiente semana y el siguiente curso. Se está poniendo mejor.
